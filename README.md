@@ -1,0 +1,2 @@
+- Allows users to add Student Data and Test Scores
+- Allows users to scroll through all students and display info and picture for individual students
